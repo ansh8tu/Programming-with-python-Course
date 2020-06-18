@@ -1,4 +1,4 @@
-# Take a list of numbers
+# This is a Python program for Divisibility
 my_list = [12, 65, 54, 39, 102, 339, 221,]
 
 # use anonymous function to filter
