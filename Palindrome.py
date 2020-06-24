@@ -1,4 +1,4 @@
-# Program to check if a string is palindrome or not
+# This is a Python program to check if a string is palindrome or not
 
 my_str = 'aIbohPhoBiA'
 
