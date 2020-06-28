@@ -1,4 +1,4 @@
-# Solve the quadratic equation ax**2 + bx + c = 0
+#This is a Python 0program to solve the quadratic equation ax**2 + bx + c = 0
 
 # import complex math module
 import cmath
