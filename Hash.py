@@ -1,4 +1,4 @@
-# Python rogram to find the SHA-1 message digest of a file
+#This is a Python program to find the SHA-1 message digest of a file
 
 # importing the hashlib module
 import hashlib
