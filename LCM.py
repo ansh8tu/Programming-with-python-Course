@@ -1,4 +1,4 @@
-# Python Program to find the L.C.M. of two input number
+#This is a Python Program to find the L.C.M. of two input number
 
 def compute_lcm(x, y):
 
