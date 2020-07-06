@@ -1,4 +1,4 @@
-# Python Program to calculate the square root
+#This is a Python program to calculate the square root
 
 # Note: change this value for a different result
 num = 8 
