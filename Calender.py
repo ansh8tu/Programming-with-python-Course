@@ -1,4 +1,4 @@
-# Program to display calendar of the given month and year
+#This is a Python program to display calendar of the given month and year
 
 # importing calendar module
 import calendar
