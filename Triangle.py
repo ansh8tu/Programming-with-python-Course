@@ -1,4 +1,4 @@
-# Python Program to find the area of triangle
+#This is a Python Program to find the area of triangle
 
 a = 5
 b = 6
