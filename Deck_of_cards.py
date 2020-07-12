@@ -1,4 +1,4 @@
-# Python program to shuffle a deck of card
+#This is a Python program to shuffle a deck of card
 
 # importing modules
 import itertools, random
