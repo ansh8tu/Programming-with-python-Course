@@ -1,4 +1,4 @@
-Python Program to Find the Size (Resolution) of a Image
+# This is a Python Program to Find the Size (Resolution) of a Image
 
 def jpeg_res(filename):
    """"This function prints the resolution of the jpeg image file passed into it"""
