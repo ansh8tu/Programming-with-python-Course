@@ -1,4 +1,4 @@
-# Program to perform different set operations like in mathematics
+#This is a Python Program to perform different set operations like in mathematics
 
 # define three sets
 E = {0, 2, 4, 6, 8};
