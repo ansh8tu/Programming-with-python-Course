@@ -1,4 +1,4 @@
-# Python3 code to demonstrate clearing a list using clear and Reinitializing 
+#This is a Python Program to demonstrate clearing a list using clear and Reinitializing 
 
 # Initializing lists 
 list1 = [1, 2, 3] 
