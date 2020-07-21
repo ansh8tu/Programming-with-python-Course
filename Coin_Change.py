@@ -1,4 +1,4 @@
-# This is a Python Program for implementation of Coin Change problem 
+# This is a Python Program for Coin Change
 def count(S, m, n): 
     # We need n+1 rows as the table is constructed  
     # in bottom up manner using the base case 0 value 
