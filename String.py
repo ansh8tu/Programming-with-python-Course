@@ -1,5 +1,4 @@
-# Python code to demonstrate string length  
-# using for loop 
+# This is a Python Program to demonstrate string length using for loop 
   
 # Returns length of string 
 def findLen(str): 
