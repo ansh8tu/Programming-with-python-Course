@@ -1,5 +1,5 @@
 
-# Function to rotate string left and right by d length 
+# This is a python program to rotate string left and right by d length 
   
 def rotate(input,d): 
   
