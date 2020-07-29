@@ -1,6 +1,5 @@
 
-# Simple Python program to find sum of series 
-# with cubes of first n natural numbers 
+#This is a Python program to find sum of series with cubes of first n natural numbers 
   
 # Returns the sum of series  
 def sumOfSeries(n): 
