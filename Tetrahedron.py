@@ -1,4 +1,4 @@
-# Python code to find the volume of a tetrahedron 
+# This is a Python Program to find the volume of a tetrahedron 
 import math 
 def vol_tetra(side): 
     volume = (side ** 3 / (6 * math.sqrt(2))) 
