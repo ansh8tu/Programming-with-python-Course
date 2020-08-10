@@ -1,7 +1,5 @@
 
-# Python3 program to determine 
-# the focal length of a 
-# of a spherical mirrorr  
+# THis is a Python program to determine the focal length of a spherical mirrorr  
   
 # Determines focal length of  
 # a spherical concave mirror 
