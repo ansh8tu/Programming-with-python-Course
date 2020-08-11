@@ -1,5 +1,4 @@
-# Python program to print all  
-# prime number in an interval 
+# This is a Python program to print all prime number in an interval 
   
 start = 11
 end = 25
