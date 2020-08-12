@@ -1,4 +1,4 @@
-# decimal value 1
+#This is a python ptogram for addition of two binary numbers
 num1 = '00001'
 # decimal value 17
 num2 = '10001'
