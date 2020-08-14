@@ -1,6 +1,5 @@
 
-# Python3 program to find maximum 
-# in arr[] of size n  
+# This is a Python program to find maximum in arr[] of size n  
   
 # python function to find maximum 
 # in arr[] of size n 
