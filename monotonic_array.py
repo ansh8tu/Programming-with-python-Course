@@ -1,5 +1,5 @@
 
-# Python3 program to find sum in Nth group 
+# This is a Python program to find sum in Nth group 
   
 # Check if given array is Monotonic 
 def isMonotonic(A): 
