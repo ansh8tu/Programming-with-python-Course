@@ -1,4 +1,4 @@
-# Python program to find ordered words 
+# This is a Python program to find ordered words 
 import requests 
 
 # Scrapes the words from the URL below and stores 
