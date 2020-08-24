@@ -1,5 +1,4 @@
-# Python Program to find number of possible 
-# values of X to satisfy A mod X = B 
+# Python Program to find number of possible values of X to satisfy A mod X = B 
 import math 
 
 # Returns the number of divisors of (A - B) 
