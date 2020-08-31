@@ -1,4 +1,4 @@
-# Python program to print negative Numbers in a List 
+# This is a Python program to print negative Numbers in a List 
   
 # list of numbers 
 list1 = [11, -21, 0, 45, 66, -93] 
