@@ -1,4 +1,4 @@
-# Python program for reversal algorithm of array rotation 
+# This is s Python program for reversal algorithm of array rotation 
 
 # Function to reverse arr[] from index start to end 
 def rverseArray(arr, start, end): 
