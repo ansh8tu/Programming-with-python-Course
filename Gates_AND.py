@@ -1,4 +1,4 @@
-# Python3 program to illustrate working of AND gate
+# This is a Python program to illustrate working of AND gate
 
 def AND (a, b):
 
