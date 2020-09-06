@@ -7,7 +7,7 @@ def AND (a, b):
 	else:
 		return False
 
-# Driver code
+
 if __name__=='__main__':
 	print(AND(1, 1))
 
